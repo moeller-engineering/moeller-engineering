@@ -35,6 +35,8 @@ Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 ![PSPO I](https://img.shields.io/badge/PSPO%20I-Scrum.org-blue)
 
 
+
+
 ## Tech Stack ⚙️
 
 ### AI Engineering
@@ -89,6 +91,8 @@ Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 ![LeanIX](https://img.shields.io/badge/LeanIX-EA-lightblue)
 
 
+
+
 ## Was ich mache 🚀
 - AI‑Engineering für produktive Unternehmensprozesse  
 - Aufbau skalierbarer Plattform‑ und Systemarchitekturen  
@@ -98,11 +102,15 @@ Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 - Einführung von AI‑Capabilities im Mittelstand  
 
 
+
+
 ## Projekte & Highlights 💡
 - Entwicklung einer digitalen Kreditprozessplattform  
 - Aufbau einer Dokumentations- & Datawarehouse‑Architektur  
 - Implementierung AI‑gestützter Automatisierungen für KMU  
 - End‑to‑End Prozessdigitalisierung in komplexen Systemlandschaften  
+
+
 
 ## Rollen & Verantwortlichkeiten 🎯
 
@@ -156,6 +164,7 @@ Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 - Führung mehrerer Projekte / Teams  
 - Strategische Ausrichtung von BPM‑ & AI‑Initiativen  
 - Skalierung von Automatisierungs‑ und Architekturprogrammen  
+
 
 
 
