@@ -7,12 +7,32 @@ Systemintegration bis hin zu AI‑Engineering mit Claude Code, Codex und Vibe Co
 
 Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 
-### Zertifikate
-![PSPO I](https://img.shields.io/badge/PSPO%20I-Scrum.org-blue)
+## Zertifikate 🎓
+
+### Anthropic
+![AI Fluency for Small Businesses](https://img.shields.io/badge/AI%20Fluency%20for%20Small%20Businesses-Anthropic-orange)
+![AI Fluency Framework & Foundations](https://img.shields.io/badge/AI%20Fluency%20Framework%20%26%20Foundations-Anthropic-blue)
+
+### WIANCO OTT Robotics
+![Certified Cognitive AI Practitioner](https://img.shields.io/badge/Cognitive%20AI%20Practitioner-WIANCO%20OTT%20Robotics-green)
+
+### Fraunhofer IEM
+![Software Security für Product Owner & Führungskräfte](https://img.shields.io/badge/Software%20Security-Fraunhofer%20IEM-lightgrey)
+
+### Robocorp
+![Robocorp Level I](https://img.shields.io/badge/Automation%20Developer%20Level%20I-Robocorp-brightgreen)
+![Robocorp Level II](https://img.shields.io/badge/Automation%20Developer%20Level%20II-Robocorp-green)
+![Robocorp Level III](https://img.shields.io/badge/Automation%20Developer%20Level%20III-Robocorp-darkgreen)
+
+### Cegos Integrata
+![Gestern Kollege – heute Vorgesetzter](https://img.shields.io/badge/Gestern%20Kollege%20%E2%80%93%20heute%20Vorgesetzter-Cegos%20Integrata-yellow)
+
+### Pegasystems
+![Pega CBA 8.5](https://img.shields.io/badge/Pega%20Certified%20Business%20Architect%208.5-Pegasystems-blue)
+
+### Scrum.org
 ![PSM I](https://img.shields.io/badge/PSM%20I-Scrum.org-blue)
-![Robocorp L1](https://img.shields.io/badge/Robocorp%20Developer%20L1-green)
-![Robocorp L3](https://img.shields.io/badge/Robocorp%20Developer%20L3-green)
-![AI Fluency](https://img.shields.io/badge/AI%20Fluency-Certificate-purple)
+![PSPO I](https://img.shields.io/badge/PSPO%20I-Scrum.org-blue)
 
 
 ## Tech Stack ⚙️
@@ -30,7 +50,7 @@ Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-orange)
 ![GPT](https://img.shields.io/badge/GPT-OpenAI-blue)
 ![Mistral](https://img.shields.io/badge/Mistral-AI-green)
-![Gemini](https://img.shields.io/badge/Gemini-Google-black
+![Gemini](https://img.shields.io/badge/Gemini-Google-black)
 ![Grok](https://img.shields.io/badge/Grok-xAI-black)
 ![Qwen](https://img.shields.io/badge/Qwen-AI-red)
 
