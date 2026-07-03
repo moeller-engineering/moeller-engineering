@@ -15,14 +15,58 @@ Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 ![AI Fluency](https://img.shields.io/badge/AI%20Fluency-Certificate-purple)
 
 
-### Tech Stack
+## Tech Stack ⚙️
+
+### AI Engineering
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-AI-orange)
 ![Codex](https://img.shields.io/badge/Codex-AI-blue)
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-AI-green)
+![CorporateLLM](https://img.shields.io/badge/CorporateLLM-AI-purple)
+![Higgsfield](https://img.shields.io/badge/Higgsfield-AI-black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow)
+![Replicate](https://img.shields.io/badge/Replicate-AI%20Inference-blue)
+
+### LLMs & Anbieter
+![Claude](https://img.shields.io/badge/Claude-Anthropic-orange)
+![GPT](https://img.shields.io/badge/GPT-OpenAI-blue)
+![Mistral](https://img.shields.io/badge/Mistral-AI-green)
+![Gemini](https://img.shields.io/badge/Gemini-Google-black
+![Grok](https://img.shields.io/badge/Grok-xAI-black)
+![Qwen](https://img.shields.io/badge/Qwen-AI-red)
+
+### Backend & Automation
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow)
-![BPMN](https://img.shields.io/badge/BPMN-2.0-lightgrey)
-![Architecture](https://img.shields.io/badge/Software%20Architecture-blue)
-![Automation](https://img.shields.io/badge/Intelligent%20Automation-purple)
+![Go](https://img.shields.io/badge/Go-1.x-blue)
+![Rust](https://img.shields.io/badge/Rust-stable-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-teal)
+![Robocorp](https://img.shields.io/badge/Robocorp-Automation-green)
+![n8n](https://img.shields.io/badge/n8n-Automation-red)
+
+### Vector Databases & Retrieval
+![pgvector](https://img.shields.io/badge/pgvector-Postgres-lightgrey)
+![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-purple)
+![Weaviate](https://img.shields.io/badge/Weaviate-VectorDB-orange)
+![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-red)
+
+### Messaging & Streaming
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
+
+### Plattformen & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-Hosting-black)
+![Railway](https://img.shields.io/badge/Railway-Cloud-purple)
+![Stribe](https://img.shields.io/badge/Stribe-Platform-orange)
+![Resend](https://img.shields.io/badge/Resend-Email%20API-red)
+
+### Tools & IDEs
+![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-red)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-purple)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+
+### Collaboration & Delivery
+![Confluence](https://img.shields.io/badge/Confluence-Docs-blue)
+![Jira](https://img.shields.io/badge/Jira-Agile-blue)
+![LeanIX](https://img.shields.io/badge/LeanIX-EA-lightblue)
 
 
 ## Was ich mache 🚀
