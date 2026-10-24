@@ -3,7 +3,7 @@
 **Freiberuflicher KI-Berater** aus Wiesbaden, bundesweit remote.
 Agentisches Coding und KI-Einführung, anbieterunabhängig.
 
-Ich arbeite täglich mit ChatGPT/Codex, Claude Code, Hermes Agent und lokalen Sprachmodellen
+Ich arbeite täglich mit ChatGPT/Codex, Claude Code und Hermes Agent, dazu praktisch mit europäischen und lokalen Modellen (z. B. Mistral),
 und helfe Unternehmen, KI praktisch einzuführen: nach Aufgabe, Datenschutz und Budget, nicht nach Hersteller.
 
 Mein Anspruch: **KI nicht nur verstehen, sondern in echte Wertschöpfung übersetzen.**
