@@ -1,11 +1,20 @@
-## Hi, ich bin Malte 👋  
-**AI Engineer & Prozessarchitekt** aus Wiesbaden, spezialisiert auf  
-**AI‑gestützte Prozessautomatisierung, skalierbare Architekturen und KMU‑Transformation.**
+## Hi, ich bin Malte 👋
 
-Ich verbinde tiefes Prozessverständnis mit technischer Umsetzungskompetenz — von BPM über  
-Systemintegration bis hin zu AI‑Engineering mit Claude Code, Codex und Vibe Coding.
+**Freiberuflicher KI-Berater** aus Wiesbaden, bundesweit remote.
+Agentisches Coding und KI-Einführung, anbieterunabhängig.
 
-Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
+Ich arbeite täglich mit ChatGPT/Codex, Claude Code, Hermes Agent und lokalen Sprachmodellen
+und helfe Unternehmen, KI praktisch einzuführen: nach Aufgabe, Datenschutz und Budget, nicht nach Hersteller.
+
+Mein Anspruch: **KI nicht nur verstehen, sondern in echte Wertschöpfung übersetzen.**
+
+🌐 [moeller-advisory.com](https://www.moeller-advisory.com) · [LinkedIn](https://www.linkedin.com/in/malte-möller-bpm-intelligent-automation)
+
+## Was ich mache 🚀
+- **Agentisches Coding einführen:** Arbeitsweise, Qualitätssicherung (Tests, Reviews), Leitplanken
+- **KI-Einführung begleiten:** Bedarf, Auswahl, Pilot und Einführung, auch mit lokalen Modellen
+- **KI-Systeme konzipieren:** Architektur, Schnittstellen, Dokumentation
+- **Prozesse KI-fähig machen:** BPM, RPA, Intelligent Automation, Systemintegration
 
 ## Zertifikate 🎓
 
@@ -21,15 +30,14 @@ Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 ![PSM I](https://img.shields.io/badge/PSM%20I-Scrum.org-blue)
 ![PSPO I](https://img.shields.io/badge/PSPO%20I-Scrum.org-blue)
 
-
-
-
 ## Tech Stack ⚙️
 
 ### AI Engineering
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-AI-orange)
 ![Codex](https://img.shields.io/badge/Codex-AI-blue)
-![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-AI-green)
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-AI-purple)
+![Lokale LLMs](https://img.shields.io/badge/Lokale%20LLMs-AI-lightgrey)
+![Agentisches Coding](https://img.shields.io/badge/Agentisches%20Coding-AI-green)
 ![CorporateLLM](https://img.shields.io/badge/CorporateLLM-AI-purple)
 ![Higgsfield](https://img.shields.io/badge/Higgsfield-AI-black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow)
@@ -65,8 +73,9 @@ Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 
 ### Plattformen & Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-Hosting-black)
+![Netlify](https://img.shields.io/badge/Netlify-Hosting-teal)
 ![Railway](https://img.shields.io/badge/Railway-Cloud-purple)
-![Stribe](https://img.shields.io/badge/Stribe-Platform-orange)
+![Stripe](https://img.shields.io/badge/Stripe-Platform-orange)
 ![Resend](https://img.shields.io/badge/Resend-Email%20API-red)
 
 ### Tools & IDEs
@@ -80,83 +89,6 @@ Mein Fokus: **AI nutzbar machen. Prozesse automatisieren. KMU stärken.**
 ![Jira](https://img.shields.io/badge/Jira-Agile-blue)
 ![LeanIX](https://img.shields.io/badge/LeanIX-EA-lightblue)
 
-
-
-
-## Was ich mache 🚀
-- AI‑Engineering für produktive Unternehmensprozesse  
-- Aufbau skalierbarer Plattform‑ und Systemarchitekturen  
-- BPM: Modellierung, Analyse, Optimierung & Automatisierung  
-- Entwicklung AI‑gestützter Workflows (Claude Code, Codex, Vibe Coding)  
-- Schnittstellenanalyse & Implementierung komplexer Systemlandschaften  
-- Einführung von AI‑Capabilities im Mittelstand  
-
-
-
-
-## Projekte & Highlights 💡
-- Entwicklung einer digitalen Kreditprozessplattform  
-- Aufbau einer Dokumentations- & Datawarehouse‑Architektur  
-- Implementierung AI‑gestützter Automatisierungen für KMU  
-- End‑to‑End Prozessdigitalisierung in komplexen Systemlandschaften  
-
-
-
-## Rollen & Verantwortlichkeiten 🎯
-
-### 🤖 AI Engineer
-- Entwicklung AI‑gestützter Workflows (Claude Code, Codex, Vibe Coding)  
-- Aufbau produktiver AI‑Capabilities für Unternehmen  
-- Integration von KI in bestehende Prozess‑ und Systemlandschaften  
-- Automatisierung komplexer End‑to‑End‑Prozesse  
-
-### 🧩 Lead Developer (IBM BPM)
-- Technische Führung in IBM BPM‑Projekten  
-- Architekturentscheidungen auf Prozessebene  
-- Coaching von Entwicklern & Qualitätssicherung  
-
-### 👨‍💻 Developer
-- Entwicklung von BPM‑Prozessen und Automatisierungen  
-- Implementierung technischer Schnittstellen & Integrationen  
-- Aufbau erster Workflow‑Automatisierungen  
-
-### 🏗️ Software Architekt
-- Design skalierbarer Software‑ und Plattformarchitekturen  
-- Schnittstellenanalyse, API‑Design & Systemintegration  
-- Architekturentscheidungen für komplexe Prozesslandschaften  
-
-### 🏛️ Enterprise Architekt
-- End‑to‑End Architektur für Unternehmensprozesse  
-- Harmonisierung von Systemlandschaften  
-- Einführung von AI‑Capabilities auf Unternehmensebene  
-
-### 📋 Requirements Engineer
-- Aufnahme, Analyse & Strukturierung fachlicher Anforderungen  
-- Übersetzung von Business‑Bedarf in technische Lösungen  
-- Moderation von Workshops & Stakeholder‑Management  
-
-### 🔍 Business Analyst
-- Prozessaufnahme, Modellierung & Optimierung  
-- Identifikation von Automatisierungspotenzialen  
-- Erstellung von Entscheidungsgrundlagen für Projekte  
-
-### 🚀 Product Owner
-- Produktvision, Roadmap & Priorisierung  
-- Steuerung von Backlogs & Entwicklungsteams  
-- Verantwortung für Produktwert & Stakeholder‑Alignment  
-
-### 📐 Projektleiter
-- Planung, Steuerung & Delivery komplexer Projekte  
-- Koordination von Teams, Providern & Stakeholdern  
-- Verantwortung für Qualität, Budget & Timeline  
-
-### 🧭 Programmleiter
-- Führung mehrerer Projekte / Teams  
-- Strategische Ausrichtung von BPM‑ & AI‑Initiativen  
-- Skalierung von Automatisierungs‑ und Architekturprogrammen  
-
-
-
-
 ## Kontakt 📬
-🔗 [LinkedIn](https://www.linkedin.com/in/malte-möller-bpm-intelligent-automation)
+✉️ [malte@moeller-advisory.com](mailto:malte@moeller-advisory.com)
+🌐 [moeller-advisory.com](https://www.moeller-advisory.com)
